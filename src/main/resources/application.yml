@@ -1,0 +1,9 @@
+elasticsearch:
+  ip: es.fllday.cn
+  port: 9200
+  schema: http
+  connecttimeout: 1000
+  sockettimeout: 30000
+  connection-request-timeout: 500
+  max-connect-num: 100
+  max-connect-perroute: 100
